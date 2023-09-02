@@ -16,3 +16,7 @@ Stream (folder)  - folder to put your eup files, custom weapon files and stuff l
 S (folder)  -  folder for the script (eup initialiser and simple mechanic script)
 
 Fxmanifest.lua (file)   - file for the whole resource to work
+
+
+
+(IMPORTANT, THIS DOENST INCLUDE CLOTHING FILES OR CUSTOM WEAPON FILES THIS IS JUST A RESOURCE TO INITIALISE THEM)
