@@ -3,7 +3,7 @@
 
 
 
-this is my server base for eup that for some reason i decided to put my simple mechanic script in it to :sob: so your welcome i guess.
+this is my server base for eup that also i decided to put my simple mechanic script in it to :sob: so your welcome i guess.
 
 
 
