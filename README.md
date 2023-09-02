@@ -24,4 +24,4 @@ Fxmanifest.lua (file)   - file for the whole resource to work
 
 dependencies -
 
-Mythic_Notify (included in the script)
+Mythic_Notify (included in the script so all u gotta do is drag it out of the zip and out of this resource and start mythic_notify then this script)
