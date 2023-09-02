@@ -20,3 +20,8 @@ Fxmanifest.lua (file)   - file for the whole resource to work
 
 
 (IMPORTANT, THIS DOENST INCLUDE CLOTHING FILES OR CUSTOM WEAPON FILES THIS IS JUST A RESOURCE TO INITIALISE THEM)
+
+
+dependencies -
+
+Mythic-Notify (included in the script)
