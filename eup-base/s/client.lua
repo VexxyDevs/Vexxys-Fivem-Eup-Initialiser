@@ -1,6 +1,5 @@
 local p = print
-
-local function credits() -- please dont remove this 😔
+function credits() -- please dont remove this 😔
     p("made by vexxydevs :D ")
 end
 
